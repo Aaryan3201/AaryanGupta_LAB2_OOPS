@@ -96,8 +96,9 @@ public class PizzaPasta {
             System.out.println("YOUR ORDER IS : RED PENNE PASTA " +"   PRICE:   " +  price );
         }
         else if(flavour == 2 && type == 2){
-            price = 20;}
+            price = 20;
         System.out.println("YOUR ORDER IS : RED DITALINI PASTA " +"   PRICE:   " +  price );
+        }    
     }
     public static void main(String[] args) {
         System.out.println(" WELCOME TO THE PIZZA PASTA \n ");
